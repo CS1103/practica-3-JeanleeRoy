@@ -1,0 +1,3 @@
+/home/utec/Documentos/Jean/practica-3-JeanleeRoy/deque/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/utec/Documentos/Jean/practica-3-JeanleeRoy/deque/cmake-build-debug/CMakeFiles/deque.dir
+/home/utec/Documentos/Jean/practica-3-JeanleeRoy/deque/cmake-build-debug/CMakeFiles/edit_cache.dir

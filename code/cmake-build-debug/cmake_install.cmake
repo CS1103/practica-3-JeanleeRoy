@@ -1,4 +1,4 @@
-# Install script for directory: /home/jeanlee/Documents/CLion/POO/PC3/practica-3-JeanleeRoy/code
+# Install script for directory: /home/utec/Documentos/Jean/practica-3-JeanleeRoy/code
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/jeanlee/Documents/CLion/POO/PC3/practica-3-JeanleeRoy/code/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/utec/Documentos/Jean/practica-3-JeanleeRoy/code/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

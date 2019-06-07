@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/jeanlee/Documents/CLion/POO/PC3/practica-3-JeanleeRoy/code/Matriz.h
+/home/utec/Documentos/Jean/practica-3-JeanleeRoy/code/Matriz.h
 iostream
 -
 
-/home/jeanlee/Documents/CLion/POO/PC3/practica-3-JeanleeRoy/code/main.cpp
+/home/utec/Documentos/Jean/practica-3-JeanleeRoy/code/main.cpp
 iostream
 -
 Matriz.h
-/home/jeanlee/Documents/CLion/POO/PC3/practica-3-JeanleeRoy/code/Matriz.h
+/home/utec/Documentos/Jean/practica-3-JeanleeRoy/code/Matriz.h
 
