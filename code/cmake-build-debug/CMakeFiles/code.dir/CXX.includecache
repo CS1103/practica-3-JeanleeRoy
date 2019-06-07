@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jeanlee/Documents/CLion/POO/PC3/practica-3-JeanleeRoy/code/Matriz.h
+iostream
+-
+
+/home/jeanlee/Documents/CLion/POO/PC3/practica-3-JeanleeRoy/code/main.cpp
+iostream
+-
+Matriz.h
+/home/jeanlee/Documents/CLion/POO/PC3/practica-3-JeanleeRoy/code/Matriz.h
+

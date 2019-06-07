@@ -1,0 +1,3 @@
+/home/jeanlee/Documents/CLion/POO/PC3/practica-3-JeanleeRoy/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jeanlee/Documents/CLion/POO/PC3/practica-3-JeanleeRoy/code/cmake-build-debug/CMakeFiles/code.dir
+/home/jeanlee/Documents/CLion/POO/PC3/practica-3-JeanleeRoy/code/cmake-build-debug/CMakeFiles/edit_cache.dir
